@@ -1,7 +1,7 @@
 # Beautiful responsive HTML email marketing templates
 HTML email templates, for use in your marketing campaigns. Compatible with all major email clients, including Outlook 2007 and iOS - tested via Litmus. All CSS is inlined ready for use in your chosen platform. Email sections are commented for easy editing.
 
-Brought to you by [EmailOctopus](https://emailoctopus.com/) - providing email marketing for next to nothing.
+Brought to you by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
 
 ## Wayfair template pack
 
@@ -40,4 +40,4 @@ All CSS is inlined already for immediate use in your chosen email service provid
 * [Karakol Newsletter](https://litmus.com/pub/fd67dd8)
 
 ## About
-These email marketing templates were created by [EmailOctopus](https://emailoctopus.com/). A low cost email marketing platform.
+These templates were created by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
