@@ -3,20 +3,20 @@ HTML email templates, for use in your marketing campaigns. Compatible with all m
 
 Brought to you by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
 
-## [Wayfair template pack](https://github.com/threeheartsdigital/emailoctopus-templates/wayfair)
+## [Wayfair template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/wayfair)
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2014/05/wayfair1.png" alt="Wayfair template" width="640">
 
 Wayfair is our first series of email marketing templates. Comprising of 3 fully responsive templates, Wayfair is perfectly designed for a lifestyle or fashion startup. The 3 templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
 
 
-## [Abacus template pack](https://github.com/threeheartsdigital/emailoctopus-templates/abacus)
+## [Abacus template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/abacus)
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/abacus.png" alt="Abacus template" width="640">
 
 Abacus is a minimalist template series. The Abacus set is made-up of 3 fully responsive templates, a newsletter, product announcement and transactional email template. Each section can be copied, and re-used, making the use cases limitless. The beautiful, minimalist design makes the Abacus templates suitable to use across industries, including Fashion, SaaS, Technical and Sporting brands.
 
-## [Karakol template pack](https://github.com/threeheartsdigital/emailoctopus-templates/karakol)
+## [Karakol template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/karakol)
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/karakol.png" alt="Karakol template" width="640">
 
