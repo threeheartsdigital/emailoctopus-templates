@@ -36,3 +36,6 @@ All CSS is inlined already for immediate use in your chosen email service provid
 * [Wayfair Newsletter](https://litmus.com/pub/d8c1635) 
 * [Abacus Newsletter](https://litmus.com/pub/b368b28) 
 * [Karakol Newsletter](https://litmus.com/pub/fd67dd8) 
+
+## About
+These email marketing templates were created by [EmailOctopus](https://emailoctopus.com/). 
