@@ -1,4 +1,4 @@
-# Beautiful responsive HTML email marketing templates
+# Beautiful, responsive, HTML email templates
 HTML email templates, for use in your marketing campaigns. Compatible with all major email clients, including Outlook 2007 and iOS - tested via Litmus. All CSS is inlined ready for use in your chosen platform. Email sections are commented for easy editing.
 
 Brought to you by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
@@ -7,20 +7,20 @@ Brought to you by [EmailOctopus](https://emailoctopus.com/) - email marketing fo
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2014/05/wayfair1.png" alt="Wayfair template" width="640">
 
-Wayfair is our first series of email marketing templates. Comprising of 3 fully responsive templates, Wayfair is perfectly designed for a lifestyle or fashion startup. The 3 templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
+Comprising of three fully responsive templates, Wayfair is perfectly designed for a lifestyle or fashion startup. The three templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
 
 
 ## [Abacus template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/abacus)
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/abacus.png" alt="Abacus template" width="640">
 
-Abacus is a minimalist template series. The Abacus set is made-up of 3 fully responsive templates, a newsletter, product announcement and transactional email template. Each section can be copied, and re-used, making the use cases limitless. The beautiful, minimalist design makes the Abacus templates suitable to use across industries, including Fashion, SaaS, Technical and Sporting brands.
+A minimalist template series. The Abacus set is made up of three fully responsive templates, a newsletter, product announcement and transactional email template. Each section can be copied and re-used with no limitations. The beautiful, minimalist design makes the Abacus templates suitable to use across industries, including fashion, SAAS, technical and sporting brands.
 
 ## [Karakol template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/karakol)
 
 <img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/karakol.png" alt="Karakol template" width="640">
 
-Karakol is designed with business in mind. A professional, yet eye-catching, design set comprises of 3 fully responsive templates, a product announcement, blog post and transactional email template. The awe inspiring hero images, which gracefully degrade to solid colours in Outlook, draw the user in and help make any content look spectacular.
+Karakol is designed with business in mind. A professional, yet eye-catching, design set comprises of three fully responsive templates, a product announcement, blog post and transactional email template. The beautiful hero images, which gracefully degrade to solid colours in Outlook, draw the user in and make any content look stunning.
 
 
 ## Code formatting
