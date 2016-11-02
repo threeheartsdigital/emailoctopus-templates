@@ -1,7 +1,7 @@
 # Beautiful, responsive, HTML email templates
 HTML email templates, for use in your marketing campaigns. Compatible with all major email clients, including Outlook 2007 and iOS - tested via Litmus. All CSS is inlined ready for use in your chosen platform. Email sections are commented for easy editing.
 
-Brought to you by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
+Brought to you by [EmailOctopus](https://emailoctopus.com/?utm_source=templates&utm_medium=github&utm_campaign=templates) - email marketing for less, via Amazon SES.
 
 ## [Karakol template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/karakol)
 
@@ -32,4 +32,4 @@ All CSS is inlined already for immediate use in your chosen email service provid
 * [Karakol Newsletter](https://litmus.com/pub/fd67dd8)
 
 ## About
-These templates were created by [EmailOctopus](https://emailoctopus.com/) - email marketing for less, via Amazon SES.
+These templates were created by [EmailOctopus](https://emailoctopus.com/?utm_source=templates&utm_medium=github&utm_campaign=templates) - email marketing for less, via Amazon SES.
