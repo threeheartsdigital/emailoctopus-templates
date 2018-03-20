@@ -5,19 +5,19 @@ Brought to you by [EmailOctopus](https://emailoctopus.com/?utm_source=templates&
 
 ## [Karakol template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/karakol)
 
-<img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/karakol.png" alt="Karakol template" width="640">
+<img src="https://wordpress-media.emailoctopus.com/templates/uploads/2016/10/karakol.png" alt="Karakol template" width="640">
 
 Karakol is designed with business in mind. A professional, yet eye-catching, design set comprises of three fully responsive templates, a product announcement, blog post and transactional email template. The beautiful hero images, which gracefully degrade to solid colours in Outlook, draw the user in and make any content look stunning.
 
 ## [Abacus template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/abacus)
 
-<img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2016/10/abacus.png" alt="Abacus template" width="640">
+<img src="https://wordpress-media.emailoctopus.com/templates/2016/10/abacus.png" alt="Abacus template" width="640">
 
 A minimalist template series. The Abacus set is made up of three fully responsive templates, a newsletter, product announcement and transactional email template. Each section can be copied and re-used with no limitations. The beautiful, minimalist design makes the Abacus templates suitable to use across industries, including fashion, SAAS, technical and sporting brands.
 
 ## [Wayfair template pack](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/wayfair)
 
-<img src="https://wordpress-media.emailoctopus.com/uploads/sites/3/2014/05/wayfair1.png" alt="Wayfair template" width="640">
+<img src="https://wordpress-media.emailoctopus.com/templates/2014/05/wayfair1.png" alt="Wayfair template" width="640">
 
 Comprising of three fully responsive templates, Wayfair is perfectly designed for a lifestyle or fashion startup. The three templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
 
