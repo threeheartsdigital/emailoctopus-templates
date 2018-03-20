@@ -26,10 +26,5 @@ All CSS is inlined already for immediate use in your chosen email service provid
 
 <img src="http://i.imgur.com/ZUWXgVE.png" alt="Code preview" width="640">
 
-## Litmus Tests
-* [Wayfair Newsletter](https://litmus.com/pub/d8c1635)
-* [Abacus Newsletter](https://litmus.com/pub/b368b28)
-* [Karakol Newsletter](https://litmus.com/pub/fd67dd8)
-
 ## About
 These templates were created by [EmailOctopus](https://emailoctopus.com/?utm_source=templates&utm_medium=github&utm_campaign=templates) - email marketing for less, via Amazon SES.
