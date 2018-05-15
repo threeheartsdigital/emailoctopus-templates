@@ -21,7 +21,7 @@ A minimalist template series. The Abacus set is made up of three fully responsiv
 
 Comprising of three fully responsive templates, Wayfair is perfectly designed for a lifestyle or fashion startup. The three templates cover multiple use cases such as product announcements, blog posts, weekly newsletters or transactional emails.
 
-## [GDPR re-opt-in emails](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/wayfair)
+## GDPR re-opt-in emails
 
 <img src="https://wordpress-media.emailoctopus.com/templates/uploads/2018/05/re-opt-in.png" alt="Re-opt-in template" width="640">
 
