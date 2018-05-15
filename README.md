@@ -25,7 +25,7 @@ Comprising of three fully responsive templates, Wayfair is perfectly designed fo
 
 <img src="https://wordpress-media.emailoctopus.com/templates/uploads/2018/05/re-opt-in.png" alt="Re-opt-in template" width="640">
 
-With the upcoming GDPR legislation we've added an additional 2 templates which can be used to re-opt-in your users. 
+With the upcoming GDPR legislation we've added an additional 2 templates which can be used to re-opt-in your users. They can be found within the [Abacus](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/abacus) pack and the [Plain](https://github.com/threeheartsdigital/emailoctopus-templates/tree/master/plain)} pack.
 
 ## Code formatting
 All CSS is inlined already for immediate use in your chosen email service provider. Sections are commented to make editing easier.
